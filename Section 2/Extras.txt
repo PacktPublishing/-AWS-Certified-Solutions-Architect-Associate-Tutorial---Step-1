@@ -1,0 +1,7 @@
+IAM:
+
+#Web Identity Federation
+https://aws.amazon.com/articles/4617974389850313
+
+#MFA
+https://aws.amazon.com/iam/details/mfa/
